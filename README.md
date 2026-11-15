@@ -1,3 +1,4 @@
+<img width="715" height="1047" alt="er_diagram" src="https://github.com/user-attachments/assets/382385d2-4b3f-4dc3-9514-8990f2eb2f93" />
 # Berealty Real Estate Property Management Database
 
 A MySQL database for Berealty, a fictional Berlin real estate agency. It manages properties (residential and commercial), clients, agents, viewings and sales transactions, and includes constraints, sample data, triggers, stored procedures and 34 reporting queries.
